@@ -1,7 +1,7 @@
 # Power BI Dashboards Examples
 
 First I'm a Power BI certified Data Analyst. I managed to help more than 12 companies in the MENA [Middle East and North Africa] and London to create their own dashboards and migrate from Excel and different ERPs and CRMs to MS Power BI. I've created more than 53 Dashboards in many fields (Sales, Marketing, Company performance analysis, Supply chain, and Finance).
-You can Send me a message from : mahmoud.khattab128@gmail.com
+> You can Send me a message from : mahmoud.khattab128@gmail.com
 
 ## Microsoft PL-300 Certified Power BI Data Analyst.
 <img
@@ -74,10 +74,23 @@ You can Send me a message from : mahmoud.khattab128@gmail.com
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
-## 05 Fifth Dashboard is a Financial management Dashboard.
+## 05 Fifth Dashboard is a Sales View Dashboard.
 
 <img
-  src="Financial\3.png"
-  alt="Human resources Dashboard"
-  title="Human resources Dashboard"
+  src="Sales_Dash\1.png"
+  alt="Sales analysis Dashboard"
+  title="Sales analysis Dashboard"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+<img
+  src="Sales_Dash\2.png"
+  alt="Sales analysis Dashboard"
+  title="Sales analysis Dashboard"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
+<img
+  src="Sales_Dash\3.png"
+  alt="Sales analysis Dashboard"
+  title="Sales analysis Dashboard"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">  
