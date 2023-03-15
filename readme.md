@@ -10,6 +10,12 @@ First I'm a Power BI certified Data Analyst. I managed to help more than 12 comp
   title="PL300 Certificate"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
+## 01 The Most recent Dashboard is Marketing Dashboard.
+<img
+  src="AARRR Marketing\AARRR Marketing.png"
+  alt="AARRR_Marketing Dashboard"
+  title="AARRR_Marketing Dashboard"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ## 01 First Dashboard is Marketing Dashboard.
 <img
