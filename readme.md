@@ -1,7 +1,7 @@
 # Power BI Dashboards Examples
 
-First I'm a Power BI certified Data Analyst. I managed to help more than 12 companies in the MENA [Middle East and North Africa] and London to create their own dashboards and migrate from Excel and different ERPs and CRMs to MS Power BI. I've created more than 53 Dashboards in many fields (Sales, Marketing, Company performance analysis, Supply chain, and Finance).
-> You can Send me a message from : mahmoud.khattab128@gmail.com
+First, I'm a Power BI-certified Data Analyst. I've helped more than 12 companies in the MENA [Middle East and North Africa] and London create their own dashboards and migrate from Excel and different ERPs and CRMs to MS Power BI. I've created more than 53 Dashboards in many fields (Sales, Marketing, Company performance analysis, Supply chain, and Finance).
+> You can Send me a message on : mahmoud.khattab128@gmail.com
 
 ## Microsoft PL-300 Certified Power BI Data Analyst.
 <img
